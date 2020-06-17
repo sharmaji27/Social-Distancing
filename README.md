@@ -6,3 +6,5 @@
 5. One can also use it on a webcam just by tweaking a single change in line 14 --> cap = cv2.VideoCapture(0).  
 
 Download yolov3.weights file from here and paste it in the master folder with cfg file --> https://drive.google.com/u/0/uc?export=download&confirm=phEB&id=1I92QB0ifKoEOZcUq6gAfay-o4Tjw1xTU  
+
+![](data/SD.gif)
