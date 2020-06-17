@@ -93,7 +93,7 @@ while ret:
         cv2.rectangle(img,(x,y),(x+w,y+h),color,2)
         cv2.circle(img,(x+w//2,y+h//2),2,(0,0,255),2)
 
-    cv2.putText(img,'No of Violations : '+str(v),(20,350),cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,255),1)
+    cv2.putText(img,'No of Violations : '+str(v),(15,frame.shape[0]-10),cv2.FONT_HERSHEY_SIMPLEX,1,(0,126,255),2)
     writer.write(img)
     cv2.imshow("Image", img)
     
