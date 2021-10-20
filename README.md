@@ -7,6 +7,8 @@
 
 Download yolov3.weights file from here and paste it in the master folder with cfg file --> https://drive.google.com/u/0/uc?export=download&confirm=phEB&id=1I92QB0ifKoEOZcUq6gAfay-o4Tjw1xTU  
 
+PS -> We could have used 3D projections (3D distances) between the two people, but that would have become very complex for freshers to understand. That's why we have gone with 2D distances only in this project.
+
 Do visit my blog for better explanations: https://machinelearningprojects.net/social-distancing-using-yolov3/
 
 ![](data/SD.gif)
