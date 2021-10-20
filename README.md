@@ -7,4 +7,6 @@
 
 Download yolov3.weights file from here and paste it in the master folder with cfg file --> https://drive.google.com/u/0/uc?export=download&confirm=phEB&id=1I92QB0ifKoEOZcUq6gAfay-o4Tjw1xTU  
 
+Do visit my blog for better explanations: https://machinelearningprojects.net/social-distancing-using-yolov3/
+
 ![](data/SD.gif)
